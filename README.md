@@ -18,7 +18,7 @@
 ```Shell
 > cd ~/.WebIde70/config/templates/
 > git init
-> git remote add origin git@github.com:sylvain-a/ShareLiveTemplate.git
+> git remote add origin git@github.com:alittlemarket/phpstorm-livetemplate.git
 > git pull
 ```
 
