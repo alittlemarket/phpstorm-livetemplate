@@ -45,7 +45,10 @@ Via l'éditeur (plus simple ?)
 GROUPE | ABBREVIATION | DESCRIPTION
 --- | --- | ---
 PHP | wrapq | wrap string with quote
+PHP | dowhile | Insert a standard do while
+PHP | swica | Insert a standard switch case
 USER | for | Simple for loop
+
 
 
 
