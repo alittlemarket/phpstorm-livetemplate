@@ -1,22 +1,21 @@
 # Incubart Live Template
 
 ## Installation
-
-Avec PHPStorm fermé
+(PHPStorm fermé)
 
 ### 1/ Live template PHPStorm
-*/home/s-artois/.WebIde70/config/templates*
+*~/.WebIde70/config/templates*
 
 
 ### 2/ Sauvegarder vos templates:
-```bash
+```Shell
 > mkdir ~/templateBckp
 > mv ~/.WebIde70/config/templates/* ~/templateBckp
 ```
 
 
-### 3/ Init git
-```shell
+### 3/ Init GIT
+```Shell
 > cd ~/.WebIde70/config/templates/
 > git init
 > git remote add origin git@github.com:sylvain-a/ShareLiveTemplate.git
@@ -35,9 +34,14 @@ Avec PHPStorm fermé
 
 ### 5/ Ajout des lives templates
 
-2 solutions :
-En éditant directement les fichiers XMLs
-Via l'éditeur (plus simple ?)
+Deux solutions :
+
+1. Editer directement les fichiers XMLs
+2. Via l'éditeur:
+    1. [CTRL] + [ALT] + [s]
+    2. Cliquer sur [Live Templates]
+    3. Choisir la catégorie souhaitée
+    4. Cliquer sur le [+] vert à droite
 
 ### 6/ Documentation des templates
   
