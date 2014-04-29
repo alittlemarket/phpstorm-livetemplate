@@ -9,8 +9,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="SQL" value="false" />
-      <option name="PL/SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -18,10 +16,7 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="PHP" value="false" />
-      <option name="HAML" value="false" />
     </context>
   </template>
   <template name="T" value="&lt;$TAG$&gt;$SELECTION$&lt;/$TAGNAME$&gt;&#10;" description="Surround with &lt;tag&gt;&lt;/tag&gt;" toReformat="true" toShortenFQNames="true">
@@ -31,8 +26,6 @@
     <context>
       <option name="HTML_TEXT" value="false" />
       <option name="XSL_TEXT" value="true" />
-      <option name="SQL" value="false" />
-      <option name="PL/SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -40,10 +33,7 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="PHP" value="false" />
-      <option name="HAML" value="false" />
     </context>
   </template>
   <template name="T2" value="&lt;$TAG$&gt;$SELECTION$&lt;/$TAGNAME$&gt;" description="Surround with &lt;tag&gt;&lt;/tag&gt; in HTML/JSP" toReformat="false" toShortenFQNames="false">
@@ -53,8 +43,6 @@
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="XSL_TEXT" value="false" />
-      <option name="SQL" value="false" />
-      <option name="PL/SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -62,18 +50,13 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="PHP" value="false" />
-      <option name="HAML" value="false" />
     </context>
   </template>
   <template name="CD" value="&lt;![CDATA[&#10;$SELECTION$&#10;]]&gt;" description="Surround with CDATA section" toReformat="false" toShortenFQNames="false">
     <context>
       <option name="HTML_TEXT" value="true" />
       <option name="XSL_TEXT" value="true" />
-      <option name="SQL" value="false" />
-      <option name="PL/SQL" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -81,10 +64,7 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="PHP" value="false" />
-      <option name="HAML" value="false" />
     </context>
   </template>
 </templateSet>
