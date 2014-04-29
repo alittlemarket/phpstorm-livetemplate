@@ -37,7 +37,7 @@
       <option name="OTHER" value="false" />
     </context>
   </template>
-  <template name="thr" value="throw new $END$" description="throw new " toReformat="true" toShortenFQNames="true">
+  <template name="thr" value="throw new $END$" description="throw new" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="HTML_TEXT" value="false" />
       <option name="HTML" value="false" />
@@ -252,6 +252,44 @@
       <option name="CSS_RULESET_LIST" value="false" />
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
+      <option name="PHP" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="dowhile" value="$ITERABLE$ = 0;&#10;do {&#10;    $END$;&#10;} while ($ITERABLE$ &gt; $$$VAR_VALUE$);&#10;" description="Insert a standard do while" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_VALUE" expression="" defaultValue="0" alwaysStopAt="true" />
+    <variable name="ITERABLE" expression="" defaultValue="$i" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
+      <option name="PHP" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="swica" value="switch ($ITERABLE$) {&#10;    &#10;    case $$$VAR_VALUE$:&#10;        $END$;&#10;        break;&#10;    &#10;    default:&#10;        //insert default&#10;}" description="Insert a standard switch case" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR_VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
       <option name="PHP" value="true" />

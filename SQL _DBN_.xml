@@ -14,6 +14,7 @@
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
       <option name="PHP" value="false" />
       <option name="OTHER" value="false" />
     </context>
@@ -31,6 +32,7 @@
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
       <option name="PHP" value="false" />
       <option name="OTHER" value="false" />
     </context>
@@ -49,6 +51,7 @@
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
       <option name="PHP" value="false" />
       <option name="OTHER" value="false" />
     </context>
@@ -67,6 +70,7 @@
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
       <option name="PHP" value="false" />
       <option name="OTHER" value="false" />
     </context>
@@ -86,6 +90,7 @@
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
       <option name="PHP" value="false" />
       <option name="OTHER" value="false" />
     </context>
@@ -103,6 +108,7 @@
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
       <option name="PHP" value="false" />
       <option name="OTHER" value="false" />
     </context>
@@ -119,6 +125,7 @@
       <option name="CSS" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
       <option name="PHP" value="false" />
       <option name="OTHER" value="false" />
     </context>
