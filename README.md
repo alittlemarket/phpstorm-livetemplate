@@ -51,7 +51,9 @@ GROUPE | ABBREVIATION | DESCRIPTION
 PHP | wrapq | wrap string with quote
 PHP | dowhile | Insert a standard do while
 PHP | swica | Insert a standard switch case
+USER | cd | Die with the file name and the line
 USER | for | Simple for loop
+USER | vd | Simple for var_dump
 
 
 
