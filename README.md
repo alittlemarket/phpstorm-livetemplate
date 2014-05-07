@@ -19,7 +19,7 @@
 > cd ~/.WebIde70/config/templates/
 > git init
 > git remote add origin git@github.com:alittlemarket/phpstorm-livetemplate.git
-> git pull
+> git pull origin master
 ```
 
 
