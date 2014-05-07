@@ -8,7 +8,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -16,9 +15,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -31,7 +27,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -39,9 +34,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -51,7 +43,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -59,9 +50,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -71,7 +59,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -79,9 +66,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -91,7 +75,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -99,9 +82,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -111,7 +91,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -119,9 +98,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -131,7 +107,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -139,9 +114,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -151,7 +123,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -159,9 +130,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -173,7 +141,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -181,9 +148,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -195,7 +159,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -203,9 +166,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -217,7 +177,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -225,9 +184,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -239,7 +195,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -247,9 +202,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -261,7 +213,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -269,9 +220,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -283,7 +231,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -291,9 +238,6 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -303,7 +247,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -311,10 +254,7 @@
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="PHP" value="true" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -326,7 +266,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -334,10 +273,7 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="PHP" value="true" />
-      <option name="HAML" value="false" />
       <option name="OTHER" value="false" />
     </context>
   </template>
@@ -349,7 +285,6 @@
       <option name="HTML" value="false" />
       <option name="XSL_TEXT" value="false" />
       <option name="XML" value="false" />
-      <option name="JSP" value="false" />
       <option name="CSS_PROPERTY_VALUE" value="false" />
       <option name="CSS_DECLARATION_BLOCK" value="false" />
       <option name="CSS_RULESET_LIST" value="false" />
@@ -357,10 +292,41 @@
       <option name="JAVA_SCRIPT" value="false" />
       <option name="TypeScript" value="false" />
       <option name="SQL" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="PHP" value="true" />
-      <option name="HAML" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="wrapb" value="($SELECTION$)" description="Wrap selected code with bracket" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
+      <option name="PHP" value="true" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="wrapc" value="{&#10;    $SELECTION$    &#10;}" description="Wrap selected code with curly brace" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="CSS_PROPERTY_VALUE" value="false" />
+      <option name="CSS_DECLARATION_BLOCK" value="false" />
+      <option name="CSS_RULESET_LIST" value="false" />
+      <option name="CSS" value="false" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="false" />
+      <option name="SQL" value="false" />
+      <option name="PHP" value="true" />
       <option name="OTHER" value="false" />
     </context>
   </template>
