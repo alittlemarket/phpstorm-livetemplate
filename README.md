@@ -57,6 +57,10 @@ USER | for | Simple for loop
 USER | vd | Simple for var_dump
 
 
+## Credits
+
+![ALittleMarket](http://images.dev.alittlemarket.com/image/header/logo.svg)
+
 
 
 
