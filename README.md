@@ -59,7 +59,7 @@ USER | vd | Simple for var_dump
 
 ## Credits
 
-![ALittleMarket](http://images.dev.alittlemarket.com/image/header/logo.svg)
+![ALittleMarket](http://images.dev.alittlemarket.com/image/header/logo.svg "Logo ALittleMarket")
 
 
 
